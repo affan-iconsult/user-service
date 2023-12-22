@@ -1,6 +1,6 @@
 package com.zenbeel.configServer.configserver.service;
 
-import com.zenbeel.configServer.configserver.entity.Customer;
+import com.zenbeel.configServer.configserver.model.entity.Customer;
 
 public interface CustomerService
 {

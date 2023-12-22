@@ -1,4 +1,4 @@
-package com.zenbeel.configServer.configserver.entity;
+package com.zenbeel.configServer.configserver.model.entity;
 
 import lombok.Getter;
 import lombok.Setter;

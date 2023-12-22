@@ -1,6 +1,6 @@
 package com.zenbeel.configServer.configserver.FeignClients;
 
-import com.zenbeel.configServer.configserver.entity.Customer;
+import com.zenbeel.configServer.configserver.model.entity.Customer;
 import org.springframework.cloud.openfeign.FeignClient;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.PostMapping;

@@ -1,8 +1,8 @@
-package com.zenbeel.configServer.configserver.Implementation;
+package com.zenbeel.configServer.configserver.service.Impl;
 
 import com.zenbeel.configServer.configserver.FeignClients.CustomerWalletClient;
 import com.zenbeel.configServer.configserver.controller.UserController;
-import com.zenbeel.configServer.configserver.entity.Customer;
+import com.zenbeel.configServer.configserver.model.entity.Customer;
 import com.zenbeel.configServer.configserver.repository.CustomerRepository;
 import com.zenbeel.configServer.configserver.service.CustomerService;
 import org.slf4j.Logger;
